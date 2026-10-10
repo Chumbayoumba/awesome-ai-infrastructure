@@ -1,4 +1,4 @@
-![Abstract compute topology connecting source, scheduling, and execution nodes.](assets/awesome-compute.svg)
+<p align="center"><img src="assets/banner.webp" alt="Awesome AI Infrastructure: GPU clouds, inference servers, cluster orchestration, distributed compute, workflows and observability" width="100%"></p>
 
 # Awesome AI Infrastructure [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
