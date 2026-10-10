@@ -4,7 +4,7 @@
 
 > A curated guide to AI infrastructure: GPU clouds and inference servers, cluster orchestration, distributed training and compute, workflow engines, serverless runtimes and production observability.
 
-Compute is not one category. A cluster scheduler, a Python task runtime, an LLM inference server, and a durable workflow engine solve different problems. This list is organized around those decisions rather than around vendor popularity.
+A cluster scheduler, a Python task runtime, an LLM inference server and a durable workflow engine solve different problems, so this list is organised around those decisions.
 
 **Editorially reviewed:** June 10, 2026 · **Entries:** 47 software projects + 20 commercial providers · **Standard:** useful, maintained, differentiated, and documented.
 
