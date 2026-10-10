@@ -313,14 +313,15 @@ Meta and xAI operate hyperscale AI infrastructure, but they are not listed as co
 ## Related Awesome Lists
 
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-- [Awesome Serverless](https://github.com/pmuens/awesome-serverless)
+- [Awesome Serverless](https://github.com/pmuens/awesome-serverless) ⚠️
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
-- [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
-- [Awesome HPC](https://github.com/dstdev/awesome-hpc)
+- [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems) ⚠️
+- [Awesome HPC](https://github.com/dstdev/awesome-hpc) ⚠️
 - [Awesome WebAssembly](https://github.com/mbasso/awesome-wasm)
 - [Awesome MLOps](https://github.com/kelvins/awesome-mlops)
 - [Awesome Observability](https://github.com/adriannovegil/awesome-observability)
 - [Awesome Selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [Awesome OSINT](https://github.com/edwardtay/awesome-OSINT)
 
 ## Contributing
 
