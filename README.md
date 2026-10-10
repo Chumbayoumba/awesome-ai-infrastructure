@@ -1,8 +1,8 @@
 ![Abstract compute topology connecting source, scheduling, and execution nodes.](assets/awesome-compute.svg)
 
-# Awesome Compute [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome AI Infrastructure [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated guide to compute orchestration, distributed execution, serverless runtimes, GPU infrastructure, workflow engines, and production observability.
+> A curated guide to AI infrastructure: GPU clouds and inference servers, cluster orchestration, distributed training and compute, workflow engines, serverless runtimes and production observability.
 
 Compute is not one category. A cluster scheduler, a Python task runtime, an LLM inference server, and a durable workflow engine solve different problems. This list is organized around those decisions rather than around vendor popularity.
 
